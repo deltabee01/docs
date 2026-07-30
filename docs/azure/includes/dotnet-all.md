@@ -523,7 +523,7 @@
 | Unknown Display Name | NuGet [4.43.0-preview.2](https://www.nuget.org/packages/Azure.Functions.Cli.Workloads.Workers.Python.osx-arm64/4.43.0-preview.2) |  |  |
 | Unknown Display Name | NuGet [4.43.0-preview.2](https://www.nuget.org/packages/Azure.Functions.Cli.Workloads.Workers.Python.osx-x64/4.43.0-preview.2) |  |  |
 | Unknown Display Name | NuGet [4.43.0-preview.2](https://www.nuget.org/packages/Azure.Functions.Cli.Workloads.Workers.Python.win-x64/4.43.0-preview.2) |  |  |
-| Unknown Display Name | NuGet [0.4.0](https://www.nuget.org/packages/Azure.Functions.Sdk/0.4.0) |  |  |
+| Unknown Display Name | NuGet [0.5.0](https://www.nuget.org/packages/Azure.Functions.Sdk/0.5.0) |  |  |
 | Unknown Display Name | NuGet [1.1.1](https://www.nuget.org/packages/Azure.Iot.Operations.ProtocolCompiler/1.1.1) |  |  |
 | Unknown Display Name | NuGet [1.0.2](https://www.nuget.org/packages/Microsoft.Azure.Cosmos.QueryPlanInterop.Linux/1.0.2) |  |  |
 | Unknown Display Name | NuGet [1.0.2](https://www.nuget.org/packages/Microsoft.Azure.Cosmos.QueryPlanInterop.MacOS/1.0.2) |  |  |
